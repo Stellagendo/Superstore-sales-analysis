@@ -54,21 +54,19 @@ The project explores:
 
 ## Dashboard Preview
 
-## Dashboard Preview
-
 ![Superstore Sales Dashboard](Superstore-Sales-Performance-Dashboard.png)
 
-The interactive dashboard provides an overview of retail business performance from 2020 to 2023, focusing on sales, profitability, customer segments and returned orders.
+The dashboard provides an overview of retail business performance from 2020 to 2023, focusing on sales, profitability, customer segments and returned orders.
 
-It includes key performance indicators and visualizations that help explore sales trends, evaluate customer segment contributions, monitor profitability and understand product return patterns.
+It combines key performance indicators and interactive visualizations to help evaluate business performance, compare sales results and identify important trends.
 
 ## Key Insights
 
-- The business recorded total sales of $2.33 million and total profit of $292.30 thousand during the analysis period.
-- The Consumer segment contributed the largest share of sales at 50.32%.
-- The Corporate segment accounted for 30.77% of sales.
-- The Home Office segment contributed 18.92% of sales.
-- Returned orders represented 5.79% of total orders, highlighting an area worth monitoring.
+- The business generated $2.33 million in total sales and $292.30K in total profit during the 2020–2023 analysis period.
+- The Consumer segment was the largest contributor to sales, accounting for 50.32%, followed by Corporate at 30.77% and Home Office at 18.92%.
+- The Sales vs Previous Year (PY) Sales analysis provides a basis for evaluating changes in sales performance across years and identifying potential growth or decline patterns.
+- Returned orders accounted for 5.79% of total orders, highlighting the importance of monitoring product returns and investigating possible contributing factors.
+- Although the Consumer segment contributed the largest share of sales, Corporate and Home Office segments together represented almost half of total sales, indicating opportunities for continued segment-level analysis and business growth.
 
 ## Recommendations
 
