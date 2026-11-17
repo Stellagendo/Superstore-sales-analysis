@@ -88,7 +88,15 @@ The findings demonstrate the importance of using data to understand business per
 
 ## Project Files
 
-Project datasets, Power BI dashboard files and supporting screenshots will be organized in their respective folders.
+### Power BI Dashboard
+[Download Power BI Dashboard (.pbix)](YOUR_DASHBOARD_FILENAME.pbix)
+
+### Dataset
+[Download Original Dataset](YOUR_DATASET_FILENAME.xlsx)
+
+### Dashboard Preview
+[View Dashboard Screenshot](YOUR_SCREENSHOT_FILENAME.png)
+
 
 ## Author
 
