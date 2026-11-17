@@ -89,14 +89,10 @@ The findings demonstrate the importance of using data to understand business per
 ## Project Files
 
 ### Power BI Dashboard
-[Download Power BI Dashboard (.pbix)](
-)
+[Download Power BI Dashboard (.pbix)](Superstore-Sales-Performance.pbix)
 
 ### Dataset
-[Download Original Dataset](YOUR_DATASET_FILENAME.xlsx)
-
-### Dashboard Preview
-[View Dashboard Screenshot](YOUR_SCREENSHOT_FILENAME.png)
+[Download Original Dataset](Superstore.xls)
 
 
 ## Author
