@@ -27,7 +27,7 @@ This project uses historical retail data to examine key business performance ind
 ## Tools Used
 
 - Power BI – Data visualization, dashboard development and analysis.
-- Microsoft Excel – Data preparation and organization, where applicable.
+- Microsoft Excel – Data preparation and organization.
 
 ## Key Performance Indicators (KPIs)
 
