@@ -54,7 +54,13 @@ The project explores:
 
 ## Dashboard Preview
 
-Dashboard screenshots will be added here.
+## Dashboard Preview
+
+![Superstore Sales Dashboard](YOUR_SCREENSHOT_FILENAME.png)
+
+The interactive dashboard provides an overview of retail business performance from 2020 to 2023, focusing on sales, profitability, customer segments and returned orders.
+
+It includes key performance indicators and visualizations that help explore sales trends, evaluate customer segment contributions, monitor profitability and understand product return patterns.
 
 ## Key Insights
 
